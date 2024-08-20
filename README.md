@@ -1,6 +1,6 @@
 - 👋 konnichiva oreva @RohitsugoiDes
 - 👀  Web development wa daisuki desu
-- 🌱  Javascript wa kowai desune
+- 🌱  Javascript ga kowai desune
   .
 
 <!---
