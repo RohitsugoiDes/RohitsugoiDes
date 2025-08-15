@@ -1,7 +1,4 @@
-- 👋 konnichiva oreva @RohitsugoiDes
-- 👀  Web development wa daisuki desu
-- 🌱  Javascript ga kowai desune
-  .
+sybau
 
 <!---
 RohitsugoiDes/RohitsugoiDes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
